@@ -56,7 +56,5 @@ I specialize in **API Architecture**, **Strategic Technical Discovery**, and **C
 ---
 
 ## 📫 Connect
-- **Email:** narendra.sr27@gmail.com
-- **Phone:** +1-289-623-2757
-- **Phone:** +91-992-971-4264
+- **Email:** narendra.sr27@hotmail.com
 - **LinkedIn:** [Narendra Verma](https://www.linkedin.com/in/narendra-verma-b02b9b32/)
